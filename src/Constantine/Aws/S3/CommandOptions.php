@@ -1,5 +1,5 @@
 <?php
-namespace Aws\S3;
+namespace Constantine\Aws\S3;
 
 final class CommandOptions {
     const ACL = 'ACL';

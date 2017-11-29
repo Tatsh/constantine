@@ -21,6 +21,6 @@ Because magic strings are awful. Constants prevent typos and are subject to auto
 
 ## Contributing
 
-Please see `Aws\S3\CommandOptions.php` for an example of the formatting. This code base uses PSR-2 style.
+Please see `src/Constanstine/Aws/S3/CommandOptions.php` for an example of the formatting. This code base uses PSR-2 style.
 
-For ease of use, the same namespace as the original package is used where applicable. For your class names, use suffixes like *Options*, *Keys*, etc (always plural).
+For ease of use, the same namespace as the original package is used where applicable, prefixed with `Constantine\`. For your class names, use suffixes like *Options*, *Keys*, etc (always plural).

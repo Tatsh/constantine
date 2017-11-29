@@ -9,5 +9,10 @@
             "email": "audvare@gmail.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Constantine\\": "src/Constantine/"
+        }
+    }
 }
