@@ -1,0 +1,13 @@
+{
+    "name": "tatsh/constantine",
+    "description": "Missing constants and enumerations for PHP.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Andrew Udvare",
+            "email": "audvare@gmail.com"
+        }
+    ],
+    "require": {}
+}
