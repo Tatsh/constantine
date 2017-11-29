@@ -7,7 +7,7 @@ This package contains constants and enumerations for various packages that are m
 ```php
 <?php
 
-use Aws\S3\CommandOptions;
+use Constantine\Aws\S3\CommandOptions;
 
 $client->putObject([
     CommandOptions::KEY => 'key to use',
